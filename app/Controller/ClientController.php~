@@ -99,7 +99,5 @@
         $this -> render('/client/request_response');
         
     }
-public function inde()
-    {}
   }
   
