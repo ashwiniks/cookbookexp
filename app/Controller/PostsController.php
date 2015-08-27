@@ -53,5 +53,9 @@
           $this->set('_serialize',array('status'));
           
       }
+      public function admin_add()
+      {
+          
+      }
   }
   
